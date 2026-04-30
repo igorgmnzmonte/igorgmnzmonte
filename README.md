@@ -1,4 +1,4 @@
-# Olá, eu sou o Igor Monte! 👋
+# Olá, me chamo Igor! 👋
 
 ### Graduando em Engenharia de Software | Desenvolvedor Back-end (Python/Flask) e Web
 
