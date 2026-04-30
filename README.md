@@ -2,9 +2,9 @@
 
 ### Graduando em Engenharia de Software | Desenvolvedor Web e Back-end
 
-[cite_start]Sou estudante do 2º período de Engenharia de Software no IFPB [cite: 45] [cite_start]e Técnico em Comércio[cite: 46]. [cite_start]Meu maior diferencial é unir a visão estratégica de negócios e processos com o desenvolvimento de soluções tecnológicas. 
+Sou estudante do 2º período de Engenharia de Software no IFPB e Técnico em Comércio. Meu maior diferencial é unir a visão estratégica de negócios e processos com o desenvolvimento de soluções tecnológicas. 
 
-[cite_start]Busco minha primeira oportunidade de estágio em Engenharia de Software para contribuir com equipes ágeis, escrevendo código limpo e evoluindo tecnicamente[cite: 32, 33]. [cite_start]Trago também experiência prática com atendimento ao cliente, o que me desenvolveu *soft skills* cruciais como comunicação assertiva, adaptabilidade e escuta ativa para entender as reais necessidades dos usuários[cite: 39, 40].
+Busco minha primeira oportunidade de estágio em Engenharia de Software para contribuir com equipes ágeis, escrevendo código limpo e evoluindo tecnicamente. Trago também experiência prática com atendimento ao cliente, o que me desenvolveu *soft skills* cruciais como comunicação assertiva, adaptabilidade e escuta ativa para entender as reais necessidades dos usuários.
 
 ## 🛠️ Minhas Tecnologias e Ferramentas
 
@@ -19,7 +19,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Scrum](https://img.shields.io/badge/scrum-007ACC?style=for-the-badge&logo=scrum&logoColor=white)
-* [cite_start]**Conceitos:** Kanban, Lógica de Programação e Estrutura de Dados.
+
+* **Conceitos:** Kanban, Lógica de Programação e Estrutura de Dados.
 
 ## 🚀 Projeto em Destaque
 
@@ -27,11 +28,11 @@
 
 ## 📜 Certificações em Destaque
 
-* [cite_start]**Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning** (64h) - *Data Science Academy* (Aproveitamento: 93%) [cite: 48, 49]
-* [cite_start]**Linux** - *NDG* 
+* **Fundamentos de Linguagem Python Para Análise de Dados, Data Science e Machine Learning** (64h) - *Data Science Academy* (Aproveitamento: 93%)
+* **Linux** - *NDG*
 
 ## 📫 Como me encontrar
 
-* [cite_start]💼 **LinkedIn:** [linkedin.com/in/igorgmnzmonte](https://linkedin.com/in/igorgmnzmonte) [cite: 27]
-* [cite_start]📧 **E-mail:** igorgmnzmonte@gmail.com [cite: 26]
-* [cite_start]🌐 **Idioma:** Inglês Intermediário [cite: 52]
+* 💼 **LinkedIn:** [linkedin.com/in/igorgmnzmonte](https://linkedin.com/in/igorgmnzmonte)
+* 📧 **E-mail:** igorgmnzmonte@gmail.com
+* 🌐 **Idioma:** Inglês Intermediário
