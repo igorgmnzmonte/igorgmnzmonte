@@ -35,4 +35,4 @@ Busco minha primeira oportunidade de estágio em Engenharia de Software para con
 
 * 💼 **LinkedIn:** [linkedin.com/in/igorgmnzmonte](https://linkedin.com/in/igorgmnzmonte)
 * 📧 **E-mail:** igorgmnzmonte@gmail.com
-* 💻 **Portfolio:** [igorgmnzmonte.github.io/Portfolio/]https://igorgmnzmonte.github.io/Portfolio/
+* 💻 **Portfolio:** [igorgmnzmonte.github.io/Portfolio/](https://igorgmnzmonte.github.io/Portfolio/)
